@@ -1,7 +1,11 @@
 # Event Detection from Video or Trajectory
+A general event detection project based on videos or extracted entities moving trajectory
 
 ## soccer_event_detection
 Use gluoncv and GNN models on soccerNet data for event detection
+Links on soccernet: 
+[Github](https://github.com/SoccerNet)
+[Website](https://www.soccer-net.org/home)
 
 ## Overview
 
